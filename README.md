@@ -1,5 +1,14 @@
 ### Hello World! :earth_americas:
 
+<div>
+  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats#gh-dracula-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats)
+
+</div>
+
+
 <!--
 **Milena-Alcantara/Milena-Alcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
