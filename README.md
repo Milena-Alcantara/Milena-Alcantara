@@ -1,11 +1,9 @@
 ### Hello World! :earth_americas:
 
 <div>
-  
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats#gh-dracula-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats)
-
+  <a href="https://github.com/Milena-Alcantara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats#gh-dracula-mode-only"/_>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats"/_>
 </div>
 
 
