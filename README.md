@@ -1,23 +1,30 @@
 ### Hello World! :earth_americas:
 
+Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
+
+
+- 🔭 Atualmente atuo como Aprendiz no Programa Estrelas Aprendiz da Zup IT Innovation
+- 🌱 Estou estudando Java e Kotlin, além de outras ferramentas para atingir meu projeto profissional atual de me tornar Desenvolvedora de Software Jr
+- 👩 Meu pronomes: Ela/Dela
+
+##
+
 <div>
   <a href="https://github.com/Milena-Alcantara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats#gh-dracula-mode-only"/_>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats"/_>
 </div>
 
+##
 
-<!--
-**Milena-Alcantara/Milena-Alcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+![Snake animation](https://github.com/Milena-Alcantara/Milena-Alcantara/blob/output/github-contribution-grid-snake.svg)
