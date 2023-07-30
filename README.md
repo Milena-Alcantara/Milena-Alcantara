@@ -5,7 +5,7 @@ Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
 
 - 🔭 Atualmente atuo como Aprendiz no Programa Estrelas Aprendiz da Zup IT Innovation
 - 🌱 Estou estudando Java e Kotlin, além de outras ferramentas para atingir meu projeto profissional atual de me tornar Desenvolvedora de Software Jr
-- 👩 Meu pronomes: Ela/Dela
+- 👩 Meus pronomes: Ela/Dela
 
 ##
 
