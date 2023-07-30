@@ -28,6 +28,6 @@ Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
 
 ##
 
-![Snake animation](https://github.com/Milena-Alcantara/Milena-Alcantara/blob/output/github-contribution-grid-snake.svg)
+
 
 
