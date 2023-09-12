@@ -6,10 +6,10 @@ Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
 - 🔭 Atualmente atuo como Aprendiz no Programa Estrelas Aprendiz da Zup IT Innovation
 - 🌱 Estou estudando Java e Kotlin, além de outras ferramentas para atingir meu projeto profissional atual de me tornar Desenvolvedora de Software Jr
 - 👩 Meus pronomes: Ela/Dela
-
+  
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/Milena-Alcantara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats#gh-dracula-mode-only"/_>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alcantara&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Milena-Alcantara/github-readme-stats"/_>
@@ -17,8 +17,9 @@ Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
 
 ##
 
+### 🛠 **My Tools:**
 
-<div>
+<div align="center">
   
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -29,6 +30,8 @@ Bem vindo(a)! Eu sou a Milena Alcântara 👩‍💻
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C)
+  ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
 
 </div>
 
